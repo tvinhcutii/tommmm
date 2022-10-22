@@ -3,7 +3,7 @@
 const yourDate = new Date("2022-09-01T02:10:26"),
 
 // Danh sách cái bài nhạc nền
-music = ['roitoilun'];
+music = ['conmuc'];
 
 document.addEventListener('DOMContentLoaded', function(){
       var rootTime = document.querySelector("time");
